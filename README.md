@@ -1,5 +1,5 @@
 # Right Count, Wrong Reasons
-![image alt](https://github.com/irfanulkabirhira/Movie-Recommendation-System-using-Content-Based-Filtering-Streamlit-Hugging-Face-Deployment-/blob/eee1bd98470aa656cac3042ca5f49f248478f9bf/Demo%20Image.png)
+![image alt](https://github.com/IntelliMed-AI-Research-Lab/Right-Count-Wrong-Reasons/blob/9992f37c557b51e88875398ab1b413d5e805db5c/Figure_3.png)
 ### Size–Occlusion-Adjusted Recall and Hidden Counting Errors in Camera-Based Vehicle Sensing
 
 **Research implementation · Computer vision · Object detection · Vehicle counting · Reproducibility**
